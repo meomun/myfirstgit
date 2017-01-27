@@ -11,7 +11,7 @@ Flows for git push file
 	- git status (check files to add)
 	- git add ten file
 		git add . (default add tat ca cac file)
-	- git commit -m 'bang beo map dit
+	- git commit -m 'sthing
 
 git checkout BRANCH_CAN_VE
 
